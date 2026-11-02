@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:"/zlaty-roh-varianty/_next/static/chunks/0umf92h1sb77c.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+b:"/zlaty-roh-varianty/_next/static/chunks/2n5qeheznvl4u.js"
+c:I[22016,["$2","$b"],""]
+14:"ViewportBoundary"
+15:I[97367,["$2"],"$14"]
+16:"MetadataBoundary"
+17:I[97367,["$2"],"$16"]
+18:"$Sreact.suspense"
+19:I[27201,["$2"],"IconMark"]
+:HL["/zlaty-roh-varianty/_next/static/chunks/2c4gg0hd7ncng.css","style"]
+6:X
+9:X
+9:C
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"vx roz","children":[["$","p",null,{"className":"stitek","children":"Zlatý Roh · návrh UX"}],["$","h1",null,{"children":"Tři cesty, jak web projít"}],["$","p",null,{"className":"roz-uvod","children":"Interaktivní je jen začátek a konec, obsah žije na bílém papíře a uprostřed hraje krátká stavební animace z Blenderu. Texty, obrázky a tlačítka jsou zástupné — jde o pohyb, přechody a rytmus. Dům ZR je koncept, ilustrační vizualizace."}],["$","div",null,{"className":"roz-mrizka","children":[["$","$Lc","/v1",{"href":"/v1","className":"roz-karta","children":[["$","b",null,{"children":"V1 Brána"}],["$","p",null,{"children":"Klasický Apple: průlet, pak let skrz tah loga do bílé."}],["$","ul",null,{"children":[["$","li","Úvod: 145 snímků, ~4 obrazovky",{"children":"Úvod: 145 snímků, ~4 obrazovky"}],["$","li","Střed: čísla, reference jako pás do strany, O nás",{"children":"Střed: čísla, reference jako pás do strany, O nás"}],["$","li","Klip: autoplay v „kině“, záblesk",{"children":"Klip: autoplay v „kině“, záblesk"}],["$","li","Konec: bílá se stáhne do loga, vzlet nad dům",{"children":"Konec: bílá se stáhne do loga, vzlet nad dům"}]]}],["$","span",null,{"className":"vaha","children":"Otevřít →"}]]}],["$","$Lc","/v2",{"href":"/v2","className":"roz-karta","children":[["$","b",null,{"children":"V2 Výkres"}],["$","p",null,{"children":"Z fotky odteče barva, zbude zlatá kresba na papíře s rastrem."}],["$","ul",null,{"children":[["$","li","Úvod: 75 snímků + čárová kresba",{"children":"Úvod: 75 snímků + čárová kresba"}],["$","li","Střed: listy výkresu, kóty, razítko jako navigace",{"children":"Střed: listy výkresu, kóty, razítko jako navigace"}],["$","li","Klip: scrollem ho „stavíte“, fáze stavby",{"children":"Klip: scrollem ho „stavíte“, fáze stavby"}],["$","li","Konec: točna, patra jako rozcestník",{"children":"Konec: točna, patra jako rozcestník"}]]}],["$","span",null,{"className":"vaha","children":"Otevřít →"}]]}],["$","$Lc","/v3",{"href":"/v3","className":"roz-karta","children":[["$","b",null,{"children":"V3 Okno"}],["$","p",null,{"children":"Průlet se zmenší do okna, obsah jsou karty, které se vrší."}],["$","ul",null,{"children":[["$","li","Úvod: 145 snímků, naklánění kurzorem",{"children":"Úvod: 145 snímků, naklánění kurzorem"}],["$","li","Střed: sticky stoh karet, magnetická tlačítka",{"children":"Střed: sticky stoh karet, magnetická tlačítka"}],["$","li","Klip: z karty přes celou obrazovku (FLIP)",{"children":"Klip: z karty přes celou obrazovku (FLIP)"}],"$Ld"]}],"$Le"]}],"$Lf"]}]]}],["$L10","$L11"],"$L12"]}],"p":"$@13","v":null,"s":"$6"}}]]
+7:[["children",{"s":"varianty","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@8","v":"$9","s":"$6"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/zlaty-roh-varianty/_next/static/chunks/2c4gg0hd7ncng.css","precedence":"next"}],["$","script","script-0",{"src":"/zlaty-roh-varianty/_next/static/chunks/0umf92h1sb77c.js","async":true}]],["$","html",null,{"lang":"cs","className":"G7hbWG_variable cRF0La_variable","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0a0907"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$18",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Varianty · Zlatý Roh"}],["$","meta","1",{"name":"description","content":"Developerská společnost z Českých Budějovic. Rezidence u Sv. Eliáše v Hůrách a Zlatý Roh u Stromovky."}],["$","link","2",{"rel":"icon","href":"/zlaty-roh-varianty/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L19","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$6"}},"a":"$@1b","u":"$@1c","b":"HJjEJx_I4iIQ0egbJAN7R"}
+1d:I[97367,["$2"],"OutletBoundary"]
+:HL["/zlaty-roh-varianty/_next/static/chunks/04hw9qpeu1hvl.css","style"]
+d:["$","li","Konec: točna se dnem a večerem",{"children":"Konec: točna se dnem a večerem"}]
+e:["$","span",null,{"className":"vaha","children":"Otevřít →"}]
+f:["$","$Lc","/",{"href":"/","className":"roz-karta","children":[["$","b",null,{"children":"V0 Průlet"}],["$","p",null,{"children":"Dosavadní verze: celý web jako jeden průlet domem."}],["$","ul",null,{"children":[["$","li","1420 snímků, 62 MB",{"children":"1420 snímků, 62 MB"}],["$","li","obsah přilepený ke kameře",{"children":"obsah přilepený ke kameře"}],["$","li","pro srovnání plynulosti",{"children":"pro srovnání plynulosti"}]]}],["$","span",null,{"className":"vaha","children":"Otevřít →"}]]}]
+10:["$","link","0",{"rel":"stylesheet","href":"/zlaty-roh-varianty/_next/static/chunks/04hw9qpeu1hvl.css","precedence":"next"}]
+11:["$","script","script-0",{"src":"/zlaty-roh-varianty/_next/static/chunks/2n5qeheznvl4u.js","async":true}]
+12:["$","$L1d",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+6:300
+1e:null
+1c:true
+6:C
+1b:0
+8:"$undefined"
+5:"$undefined"
+1a:"$undefined"
+13:"$undefined"

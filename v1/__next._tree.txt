@@ -1,0 +1,9 @@
+:HL["/zlaty-roh-varianty/_next/static/chunks/2c4gg0hd7ncng.css","style"]
+:HL["/zlaty-roh-varianty/_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/zlaty-roh-varianty/_next/static/media/cd9c266256ef2177-s.p.0utccxs2wm2qn.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/zlaty-roh-varianty/_next/static/media/d90dd95b053d9495-s.p.3r2y_bth_sjsm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/zlaty-roh-varianty/_next/static/media/fbb7028efdf70529-s.p.1_0gbi-gsbqmd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/zlaty-roh-varianty/_next/static/chunks/04hw9qpeu1hvl.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"v1","h":96,"c":"$Q2"}]]
+0:{"b":"HJjEJx_I4iIQ0egbJAN7R","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

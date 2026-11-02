@@ -1,0 +1,49 @@
+1:"$Sreact.fragment"
+2:"/zlaty-roh-varianty/_next/static/chunks/0umf92h1sb77c.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+b:"/zlaty-roh-varianty/_next/static/chunks/085scoaasf446.js"
+c:"/zlaty-roh-varianty/_next/static/chunks/1e09cewkwhybf.js"
+d:I[35745,["$2","$b","$c"],"default"]
+e:I[22016,["$2","$b","$c"],""]
+f:I[43768,["$2","$b","$c"],"default"]
+10:I[1086,["$2","$b","$c"],"Slova"]
+11:I[1086,["$2","$b","$c"],"Pocitadlo"]
+12:I[98415,["$2","$b","$c"],"default"]
+13:I[17506,["$2","$b","$c"],"default"]
+20:"ViewportBoundary"
+21:I[97367,["$2"],"$20"]
+22:"MetadataBoundary"
+23:I[97367,["$2"],"$22"]
+24:"$Sreact.suspense"
+25:I[27201,["$2"],"IconMark"]
+:HL["/zlaty-roh-varianty/_next/static/chunks/2c4gg0hd7ncng.css","style"]
+6:X
+9:X
+9:C
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"vx v1","id":"nahoru","children":[["$","$Ld",null,{}],["$","header",null,{"className":"vx-hlavicka","children":[["$","a",null,{"className":"vx-znacka","href":"#nahoru","children":[["$","span",null,{"className":"vx-zr","aria-hidden":"true","children":"ZR"}],["$","span",null,{"children":"Zlatý Roh"}]]}],["$","nav",null,{"aria-label":"Hlavní","children":[["$","a","reference",{"href":"#reference","children":"Reference"}],["$","a","stavba",{"href":"#stavba","children":"Stavba"}],["$","a","o-nas",{"href":"#o-nas","children":"O nás"}],["$","a","kontakt",{"href":"#kontakt","children":"Kontakt"}]]}],["$","$Le",null,{"className":"vx-varianta","href":"/varianty","children":["V1 Brána"," · varianty"]}]]}],["$","$Lf",null,{"od":1,"do":290,"vyska":420,"smer":"dovnitr","okno":[0.78,0.97],"children":["$","div",null,{"className":"prekryv","children":[["$","div",null,{"className":"v1-titulek","children":[["$","p",null,{"className":"stitek","children":["$","$L10",null,{"text":"Developerská společnost, České Budějovice","od":0.02,"do":0.14,"druh":"mizi"}]}],["$","h1",null,{"children":["$","$L10",null,{"text":"Stavíme domy, které drží hodnotu","od":0.04,"do":0.24,"druh":"mizi"}]}]]}],["$","p",null,{"className":"v1-heslo","children":["$","$L10",null,{"text":"Piloty, monolit, cihla a trojskla jsou standard.","od":0.34,"do":0.6,"druh":"prichazi"}]}],["$","p",null,{"className":"v1-sipka","children":"Scrollujte"}],["$","p",null,{"className":"koncept-pozn","children":"Dům ZR je koncept, ilustrační vizualizace"}]]}]}],["$","section",null,{"className":"v1-uvod","children":[["$","p",null,{"className":"stitek","children":"Zlatý Roh Development"}],["$","h2",null,{"children":"Zástupný úvodní odstavec: kdo jsme, co stavíme a proč to vydrží."}],["$","div",null,{"className":"v1-cisla","children":[["$","div",null,{"children":[["$","$L11",null,{"cil":2}],["$","span",null,{"children":"projekty v portfoliu"}]]}],["$","div",null,{"children":[["$","$L11",null,{"cil":29}],["$","span",null,{"children":"bytů u Stromovky"}]]}],["$","div",null,{"children":[["$","$L11",null,{"cil":2028,"delka":2200}],["$","span",null,{"children":"kolaudace v Hůrách"}]]}]]}]]}],["$","$L12",null,{}],["$","$L13",null,{}],["$","section",null,{"id":"o-nas","className":"v1-onas","children":[["$","h2",null,{"children":"O nás"}],["$","div",null,{"children":[["$","ol",null,{"className":"v1-zasady","children":[["$","li","Lokalita",{"children":["$","div",null,{"children":[["$","p",null,{"className":"pokus","children":"Lokalita"}],["$","h3",null,{"children":"Místo s výhledem"}],["$","p",null,{"children":"Vybíráme pozemky, kde se okolí rozvíjí: dobrá dopravní dostupnost, škola, služby a příroda za domem."}]]}]}],["$","li","Stavba",{"children":["$","div",null,{"children":[["$","p",null,{"className":"pokus","children":"Stavba"}],["$","h3",null,{"children":"Kvalita od základů"}],["$","p",null,{"children":"Stavíme s generálními dodavateli jako STRABAG a PORR. Piloty, monolit, cihla a trojskla jsou u nás standard."}]]}]}],["$","li","Klient",{"children":["$","div",null,{"children":[["$","p",null,{"className":"pokus","children":"Klient"}],"$L14","$L15"]}]}]]}],"$L16"]}]]}],"$L17","$L18","$L19","$L1a"]}],["$L1b","$L1c","$L1d"],"$L1e"]}],"p":"$@1f","v":null,"s":"$6"}}]]
+7:[["children",{"s":"v1","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@8","v":"$9","s":"$6"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/zlaty-roh-varianty/_next/static/chunks/2c4gg0hd7ncng.css","precedence":"next"}],["$","script","script-0",{"src":"/zlaty-roh-varianty/_next/static/chunks/0umf92h1sb77c.js","async":true}]],["$","html",null,{"lang":"cs","className":"G7hbWG_variable cRF0La_variable","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L21",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0a0907"}]]}],["$","$L23",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$24",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"V1 Brána · Zlatý Roh"}],["$","meta","1",{"name":"description","content":"Developerská společnost z Českých Budějovic. Rezidence u Sv. Eliáše v Hůrách a Zlatý Roh u Stromovky."}],["$","link","2",{"rel":"icon","href":"/zlaty-roh-varianty/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L25","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@26","v":null,"s":"$6"}},"a":"$@27","u":"$@28","b":"HJjEJx_I4iIQ0egbJAN7R"}
+29:I[1086,["$2","$b","$c"],"Pas"]
+2a:I[97367,["$2"],"OutletBoundary"]
+:HL["/zlaty-roh-varianty/_next/static/chunks/04hw9qpeu1hvl.css","style"]
+14:["$","h3",null,{"children":"Jednáte s majiteli"}]
+15:["$","p",null,{"children":"Projekty vedou přímo jednatelé společnosti. Na otázky odpovídá člověk, který o projektu rozhoduje."}]
+16:["$","div",null,{"className":"v1-lide","children":[["$","div","Karel Šandera",{"children":[["$","div",null,{"className":"ph  ","style":{"aspectRatio":"4 / 5"},"role":"img","aria-label":"Zástupný obrázek: portrét","children":["$","span",null,{"children":"portrét"}]}],["$","h3",null,{"children":"Karel Šandera"}],["$","p",null,{"children":"Jednatel a spolumajitel"}]]}],["$","div","Mgr. Michal Pomije",{"children":[["$","div",null,{"className":"ph  ","style":{"aspectRatio":"4 / 5"},"role":"img","aria-label":"Zástupný obrázek: portrét","children":["$","span",null,{"children":"portrét"}]}],["$","h3",null,{"children":"Mgr. Michal Pomije"}],["$","p",null,{"children":"Spolumajitel"}]]}]]}]
+17:["$","$L29",null,{"polozky":["STRABAG","PORR","ČSOB","Brůha & Krampera"]}]
+18:["$","div",null,{"id":"kontakt"}]
+19:["$","$Lf",null,{"od":1340,"do":1420,"vyska":300,"smer":"ven","okno":[0,0.32],"lina":true,"children":[["$","div",null,{"className":"v1-zaver-prekryv","children":["$","div",null,{"children":[["$","p",null,{"className":"stitek","style":{"color":"#ecd5a4"},"children":"Kontakt"}],["$","h2",null,{"children":"Pojďme se potkat"}],["$","div",null,{"className":"akce","children":[["$","a",null,{"className":"tl zlate","href":"tel:+420721254882","children":"+420 721 254 882"}],["$","a",null,{"className":"tl svetle","href":"mailto:sandera@zlaty-roh.cz","children":"Napsat e-mail"}],["$","button",null,{"type":"button","className":"tl svetle","children":"Poptávka (zatím nefunkční)"}]]}]]}]}],["$","p",null,{"className":"koncept-pozn","children":"Dům ZR je koncept, ilustrační vizualizace"}]]}]
+1a:["$","footer",null,{"className":"vx-pata","children":[["$","span",null,{"children":"© 2026 Zlatý Roh s.r.o. · České Budějovice"}],["$","span",null,{"children":"Varianta V1 — návrh UX, texty a obrázky jsou zástupné"}]]}]
+1b:["$","link","0",{"rel":"stylesheet","href":"/zlaty-roh-varianty/_next/static/chunks/04hw9qpeu1hvl.css","precedence":"next"}]
+1c:["$","script","script-0",{"src":"/zlaty-roh-varianty/_next/static/chunks/085scoaasf446.js","async":true}]
+1d:["$","script","script-1",{"src":"/zlaty-roh-varianty/_next/static/chunks/1e09cewkwhybf.js","async":true}]
+1e:["$","$L2a",null,{"children":["$","$24",null,{"name":"Next.MetadataOutlet","children":"$@2b"}]}]
+6:300
+2b:null
+28:true
+6:C
+27:0
+8:"$undefined"
+5:"$undefined"
+26:"$undefined"
+1f:"$undefined"
